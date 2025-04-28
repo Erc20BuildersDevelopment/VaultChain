@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "hash": "a3c8b093dbb6b7caaed9f19ef7d2bbaae23534e2d78a6501c975c65bfbf3846e",
+    "endpoints": [
+      {
+        "name": "VaultChain Mainnet API",
+        "description": "Primary endpoint for accessing VaultChain Mainnet services."
+      }
+    ],
+    "last_updated": "2025-04-28T12:00:00Z"
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "hash": "e2f09b35461a7b381cd4089e6ff567d2922f5678c2fffd8fe4d9707fe3cdbeb7",
+    "ports": [
+      {
+        "name": "VaultChain Mainnet Node Port",
+        "port": 8080,
+        "protocol": "TCP",
+        "description": "Main port for communication with VaultChain Mainnet."
+      }
+    ],
+    "last_updated": "2025-04-28T12:00:00Z"
+  }
+  
