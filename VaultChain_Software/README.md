@@ -71,7 +71,7 @@ We also welcome suggestions, bug reports, and issues submitted via the GitHub is
 
 ## License
 
-The VaultChain Software is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE). See the LICENSE file for more information.
+The VaultChain Software is licensed under the [GNU GENERAL PUBLIC LICENSE](VaultChain/LICENSE). See the LICENSE file for more information.
 
 ---
 
