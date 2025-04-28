@@ -1,0 +1,16 @@
+{
+    "owner_address": "0x142B9B25BC3D5AcDd02D81d2d77Efcba6A2892f5",
+    "total_rewards": 0.56,
+    "logs": [
+        "[INFO] Node status: Connected",
+        "[ERROR] Block validation failed. Try again.",
+        "[INFO] Node status: No Peer Connections",
+        "[INFO] Node is not connected. Cannot validate blocks.",
+        "[INFO] Node status: No Peer Connections",
+        "[INFO] Node is not connected. Cannot validate blocks.",
+        "[INFO] Node status: Connected",
+        "[VALIDATED] Block validated successfully. Reward: 0.56 VaultChain Tokens",
+        "[INFO] Node status: Connected",
+        "[INFO] Validator Node stopped."
+    ]
+}
